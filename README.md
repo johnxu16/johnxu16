@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I am experienced in Vue and React.
+- I am experienced in React and Vue.
 - I am learning .NET recently.
 - I am interested in computer graphics.
 - 🔭 I work at SSW https://www.ssw.com.au/people/john-xu
