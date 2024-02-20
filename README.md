@@ -7,8 +7,7 @@
 - 💬 Ask me about React and Vue.
 
 - 😄 Pronouns: He/him
-- 📫 How to reach me: @johnxu77
-- ⚡ Fun fact: I believed that i could make the night come earlier, the fact is that i was lack of vitamin A.
+- 📫 How to reach me: @johnxu16
 <!--
 **johnxussw/johnxussw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
