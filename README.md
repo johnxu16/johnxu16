@@ -2,7 +2,6 @@
 
 - I am experienced in React and Vue.
 - I am interested in computer graphics.
-- 🔭 I work at SSW https://www.ssw.com.au/people/john-xu
 - 💬 Ask me about React and Vue.
 
 - 😄 Pronouns: He/him
