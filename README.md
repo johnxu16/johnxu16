@@ -9,6 +9,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=angular,vue,react,azure,cs,java,spring,d3,docker,dotnet,electron,kubernetes,lit,vim,nextjs,tailwind,terraform)](https://skillicons.dev)
 
+[![John's github stats](https://github-readme-stats-johnxu77.vercel.app/api?username=johnxu16&theme=dark)](https://github.com/johnxu77/github-readme-stats)
+
 <!--
 **johnxussw/johnxussw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,4 +25,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![John's github stats](https://github-readme-stats-johnxu77.vercel.app/api?username=johnxu16&theme=dark)](https://github.com/johnxu77/github-readme-stats)
