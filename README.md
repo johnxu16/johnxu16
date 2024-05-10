@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/him
 - 📫 How to reach me: @johnxu16
 
-[![My Skills](https://skillicons.dev/icons?i=angular,vue,react,azure,cs,java,spring,d3,docker,dotnet,electron,kubernetes,lit,vim,nextjs,tailwind,terraform)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,vue,react,electron,lit,nextjs,tailwind,cs,dotnet,java,spring,azure,terraform,docker,kubernetes)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
 
