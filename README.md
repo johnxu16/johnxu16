@@ -10,6 +10,11 @@
 [![My Skills](https://skillicons.dev/icons?i=angular,vue,react,azure,cs,java,spring,d3,docker,dotnet,electron,kubernetes,lit,vim,nextjs,tailwind,terraform)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <!--
