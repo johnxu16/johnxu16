@@ -6,6 +6,9 @@
 
 - 😄 Pronouns: He/him
 - 📫 How to reach me: @johnxu16
+
+[![My Skills](https://skillicons.dev/icons?i=angular,vue,react,azure,cs,java,spring,d3,docker,dotnet,electron,kubernetes,lit,vim,nextjs,tailwind,terraform)](https://skillicons.dev)
+
 <!--
 **johnxussw/johnxussw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
