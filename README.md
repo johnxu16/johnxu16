@@ -5,11 +5,13 @@
 
 
 - 💬 &nbsp;Ask me about React, Vue, Angular, Browser, V8, Scrum, DDD, Homelab
-<!-- - 🔭 &nbsp;I’m currently working on [Ploger](https://www.github-trends.dev/) & [GitHub Ranking](https://www.github-ranking.dev/) -->
 - 📖 &nbsp;Recently I'm learning godot - Thanks to Unity leads me to this fantastic engine
-<!-- - ✍️ &nbsp;I blog here: [attackonmorty.com](https://www.attackonmorty.com/) -->
 - 👨‍💻 &nbsp;I work at [SSW](https://ssw.com.au)
 - 📫 &nbsp;How to reach me: [LinkedIn](https://www.linkedin.com/in/john-x-b26a9b251/)
+
+
+<!-- - 🔭 &nbsp;I’m currently working on [Ploger](https://www.github-trends.dev/) & [GitHub Ranking](https://www.github-ranking.dev/) -->
+<!-- - ✍️ &nbsp;I blog here: [attackonmorty.com](https://www.attackonmorty.com/) -->
 
 [![My Skills](https://skillicons.dev/icons?i=angular,vue,react,electron,lit,nextjs,tailwind,cs,dotnet,java,spring,azure,terraform,docker,kubernetes)](https://skillicons.dev)
 
