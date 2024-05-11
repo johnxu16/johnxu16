@@ -9,6 +9,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=angular,vue,react,electron,lit,nextjs,tailwind,cs,dotnet,java,spring,azure,terraform,docker,kubernetes)](https://skillicons.dev)
 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=johnxu16&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="JX's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnxu16&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -19,19 +22,4 @@ YAML   0 secs          ███████████████████
 
 <!--
 [![John's github stats](https://github-readme-stats-johnxu77.vercel.app/api?username=johnxu16&theme=dark)](https://github.com/johnxu77/github-readme-stats)
--->
-
-<!--
-**johnxussw/johnxussw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
