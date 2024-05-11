@@ -1,17 +1,22 @@
-### Hi there 👋
+<div align="center">
+   <h1>Hi there, I'm <a href="https://www.linkedin.com/in/john-x-b26a9b251/">John</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+</div>
 
-- I am experienced in React and Vue.
-- I am interested in computer graphics.
-- 💬 Ask me about React and Vue.
 
-- 😄 Pronouns: He/him
-- 📫 How to reach me: @johnxu16
+
+- 💬 &nbsp;Ask me about React, Vue, Angular, Browser, V8, Scrum, DDD, Homelab
+<!-- - 🔭 &nbsp;I’m currently working on [Ploger](https://www.github-trends.dev/) & [GitHub Ranking](https://www.github-ranking.dev/) -->
+- 📖 &nbsp;Recently I'm learning godot - Thanks to Unity leads me to this fantastic engine
+<!-- - ✍️ &nbsp;I blog here: [attackonmorty.com](https://www.attackonmorty.com/) -->
+- 👨‍💻 &nbsp;I work at [SSW](https://ssw.com.au)
+- 📫 &nbsp;How to reach me: [LinkedIn](https://www.linkedin.com/in/john-x-b26a9b251/)
 
 [![My Skills](https://skillicons.dev/icons?i=angular,vue,react,electron,lit,nextjs,tailwind,cs,dotnet,java,spring,azure,terraform,docker,kubernetes)](https://skillicons.dev)
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=johnxu16&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="JX's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnxu16&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+📊 **Weekly Development Breakdown**
 <!--START_SECTION:waka-->
 
 ```txt
