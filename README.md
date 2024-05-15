@@ -15,7 +15,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=angular,vue,react,electron,lit,nextjs,tailwind,cs,dotnet,java,spring,azure,terraform,docker,kubernetes)](https://skillicons.dev)
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://git-stats-sigma.vercel.app/api?username=johnxu16&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="JX's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://git-stats-sigma.vercel.app/api/top-langs/?username=johnxu16&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://git-stats-navy.vercel.app/api?username=johnxu16&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="JX's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://git-stats-navy.vercel.app/api/top-langs/?username=johnxu16&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 📊 **Weekly Development Breakdown**
