@@ -34,6 +34,7 @@ JSON          34 mins         ██▒░░░░░░░░░░░░░�
 [![John's github stats](https://github-readme-stats-johnxu77.vercel.app/api?username=johnxu16&theme=dark)](https://github.com/johnxu77/github-readme-stats)
 -->
 
+📃 **Blogs**
 <!-- BLOG-POST-LIST:START -->
 - [2023 Retro](https://www.jxdev.com/blog/2023-retro)
 - [github http2 报错](https://www.jxdev.com/blog/github-http2-error)
