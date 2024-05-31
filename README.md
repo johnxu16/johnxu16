@@ -36,9 +36,9 @@ JSON          34 mins         ██▒░░░░░░░░░░░░░�
 
 📙 **Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [2023 Retro](https://www.jxdev.com/blog/2023-retro)
-- [github http2 报错](https://www.jxdev.com/blog/github-http2-error)
-- [JDK9反射协议修改](https://www.jxdev.com/blog/jdk9-reflect-policy-changed)
-- [Windows下重置网络](https://www.jxdev.com/blog/net-reset)
-- [解决npm依赖使用git协议](https://www.jxdev.com/blog/npm-package-gitlink-error)
+- [2023 Retro](https://www.jxdev.me/blog/2023-retro)
+- [github http2 报错](https://www.jxdev.me/blog/github-http2-error)
+- [JDK9反射协议修改](https://www.jxdev.me/blog/jdk9-reflect-policy-changed)
+- [Windows下重置网络](https://www.jxdev.me/blog/net-reset)
+- [解决npm依赖使用git协议](https://www.jxdev.me/blog/npm-package-gitlink-error)
 <!-- BLOG-POST-LIST:END -->
