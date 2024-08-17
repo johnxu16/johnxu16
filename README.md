@@ -21,7 +21,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Rust         53 mins         ███████████████▒░░░░░░░░░   61.72 %
+JSON         12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.79 %
+TypeScript   12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 %
+TOML         8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
