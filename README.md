@@ -21,10 +21,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   41 mins         ██████████████████████▓░░   90.54 %
-PowerShell   3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
-Python       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+PowerShell   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
