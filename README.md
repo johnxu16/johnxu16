@@ -34,11 +34,6 @@ JSON          8 mins          ▓░░░░░░░░░░░░░░░�
 [![John's github stats](https://github-readme-stats-johnxu77.vercel.app/api?username=johnxu16&theme=dark)](https://github.com/johnxu77/github-readme-stats)
 -->
 
-📙 **Blog Posts**
+<!-- 📙 **Blog Posts** -->
 <!-- BLOG-POST-LIST:START -->
-- [2023 Retro](https://www.jxdev.me/blog/2023-retro)
-- [github http2 报错](https://www.jxdev.me/blog/github-http2-error)
-- [JDK9反射协议修改](https://www.jxdev.me/blog/jdk9-reflect-policy-changed)
-- [Windows下重置网络](https://www.jxdev.me/blog/net-reset)
-- [解决npm依赖使用git协议](https://www.jxdev.me/blog/npm-package-gitlink-error)
 <!-- BLOG-POST-LIST:END -->
