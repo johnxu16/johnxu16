@@ -21,11 +21,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Lua          16 hrs 36 mins  ██████████████░░░░░░░░░░░   56.37 %
-Markdown     3 hrs 43 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.63 %
-Batchfile    2 hrs 21 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
-TypeScript   1 hr 40 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
-PowerShell   1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+Lua          16 hrs 36 mins  ██████████████░░░░░░░░░░░   55.42 %
+Markdown     4 hrs 1 min     ███▒░░░░░░░░░░░░░░░░░░░░░   13.43 %
+Batchfile    2 hrs 21 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
+PowerShell   1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+TypeScript   1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
 ```
 
 <!--END_SECTION:waka-->
