@@ -5,7 +5,7 @@
 
 
 - 💬 &nbsp;Ask me about React, Vue, Angular, Browser, V8, Scrum, DDD, Homelab
-- 📖 &nbsp;Recently I'm learning godot - Thanks to Unity leads me to this fantastic engine
+<!-- - 📖 &nbsp;Recently I'm learning godot - Thanks to Unity leads me to this fantastic engine -->
 <!-- - 📫 &nbsp;How to reach me: [LinkedIn](https://www.linkedin.com/in/john-x-b26a9b251/) -->
 
 
