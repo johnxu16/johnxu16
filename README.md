@@ -3,7 +3,7 @@
 </div>
 
 - 💬 &nbsp;Ask me about React, Vue, Angular, Browser, V8, Scrum, DDD, Homelab
-- ✍️ &nbsp;I blog here: [jxdev.me](https://www.jxdev.me/) -->
+- ✍️ &nbsp;I blog here: [jxdev.me](https://www.jxdev.me/)
 <!-- - 📫 &nbsp;How to reach me: [LinkedIn](https://www.linkedin.com/in/john-x-b26a9b251/) -->
 <!-- - 🔭 &nbsp;I’m currently working on [Ploger](https://www.github-trends.dev/) & [GitHub Ranking](https://www.github-ranking.dev/) -->
 
