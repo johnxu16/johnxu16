@@ -102,4 +102,9 @@ JavaScript   33 mins         ▓░░░░░░░░░░░░░░░░
 
 📙 **Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [使用stow管理dotfiles](https://www.jxdev.me/blog/stow)
+- [vfox你也许值得拥有的开发环境管理器](https://www.jxdev.me/blog/vfox)
+- [github http2 报错](https://www.jxdev.me/blog/github-http2-error)
+- [JDK9反射协议修改](https://www.jxdev.me/blog/jdk9-reflect-policy-changed)
+- [Windows下重置网络](https://www.jxdev.me/blog/net-reset)
 <!-- BLOG-POST-LIST:END -->
