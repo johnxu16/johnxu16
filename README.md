@@ -68,7 +68,6 @@
 <img style="margin: 10px" src="https://www.svgrepo.com/show/353475/bash.svg" alt="Bash" height="50" />
 <img style="margin: 10px" src="https://www.svgrepo.com/show/373817/lua.svg" alt="Lua" height="50" />
 <img style="margin: 10px" src="https://www.svgrepo.com/show/329945/apachejmeter.svg" alt="Jmeter" height="50" />
-<img style="margin: 10px" src="https://www.svgrepo.com/show/361180/github-action.svg" alt="GitHub Actions" height="50" />
 </div>
 
    </td>
