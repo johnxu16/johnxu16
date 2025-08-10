@@ -86,11 +86,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   35 hrs 54 mins  █████████████████████▒░░░   85.47 %
-JSON         2 hrs 21 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
-JavaScript   2 hrs 8 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
-Other        38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-Text         11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+TypeScript       33 hrs 37 mins  ████████████████████▓░░░░   82.07 %
+JSON             2 hrs 18 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+JavaScript       2 hrs 8 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+Godot Resource   1 hr 32 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+Other            28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
 ```
 
 <!--END_SECTION:waka-->
