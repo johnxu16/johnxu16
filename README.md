@@ -86,11 +86,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript      31 hrs 9 mins   █████████████████████░░░░   84.64 %
-JSON            1 hr 46 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
-Vue.js          1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
-Unity3D Asset   1 hr 13 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-JavaScript      19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+TypeScript      35 hrs 4 mins   █████████████████████▓░░░   86.92 %
+JSON            1 hr 44 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+Vue.js          1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+Unity3D Asset   1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+TSConfig        17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
