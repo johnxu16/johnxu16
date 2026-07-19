@@ -86,11 +86,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     8 mins                ██████████▓░░░░░░░░░░░░░░   42.33 %
-Other        7 mins                █████████▓░░░░░░░░░░░░░░░   39.21 %
-Git Config   1 min                 ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
-Bash         0 secs                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
-TypeScript   0 secs                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
